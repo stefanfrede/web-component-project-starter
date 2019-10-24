@@ -1,0 +1,31 @@
+{
+  "name": "wc-b",
+  "description": "web component dummy.",
+  "keywords": [
+    "web components"
+    ],
+  "version": "0.0.0",
+  "homepage": "",
+  "bugs": "https://github.com/stefanfrede/web-component-project-starter/issues",
+  "license": "MIT",
+  "files": [
+    "LICENSE.md",
+    "README.md",
+    "index.js"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stefanfrede/web-component-project-starter",
+    "directory": "packages/wc-b"
+  },
+  "engines": {
+    "node": "12.x.x",
+    "npm": "6.x.x"
+  },
+  "dependencies": {
+    "lit-element": "^2.1.0",
+    "wc-a": "0.0.0"
+  },
+  "devDependencies": {}
+}

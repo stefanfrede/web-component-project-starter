@@ -20,7 +20,7 @@
     "directory": "packages/wc-b"
   },
   "engines": {
-    "node": "12.x.x",
+    "node": "10.x.x",
     "npm": "6.x.x"
   },
   "dependencies": {

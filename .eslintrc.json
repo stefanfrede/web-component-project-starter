@@ -4,6 +4,7 @@
     "eslint:recommended",
     "plugin:import/errors",
     "plugin:import/warnings",
+    "plugin:lit/recommended",
     "plugin:wc/recommended",
     "plugin:prettier/recommended"
   ],
@@ -22,6 +23,7 @@
   },
   "plugins": [
     "html",
+    "lit",
     "wc"
   ]
 }
